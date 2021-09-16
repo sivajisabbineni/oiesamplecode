@@ -1,8 +1,0 @@
-okta:
-  idx:
-    issuer: "https://oie.sivajiokta.com/oauth2/default"
-    clientId: "0oa16zi1hp5RLujBt1d7"
-    clientSecret: "l3QYHT-bOpQjSQ69i-Jyo_jl4ET6Wau8pbQGD5bM" # Required for confidential clients
-    scopes:
-    - "openid profile email"
-    redirectUri: "http://local.sivaji.com:8080/interactioncode/callback"
